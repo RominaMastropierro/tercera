@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 lo estamos logrando por fin Hola Ruth!!
+=======
+lo estamos logrando por fin
+yupi
+>>>>>>> b17f33c81a765474225e4436e71dd11bb70bcb77
